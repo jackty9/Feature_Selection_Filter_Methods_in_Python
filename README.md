@@ -1,4 +1,4 @@
-# Feature_Selection_in_Python
+# Feature_Selection_with_Filter_Methods_in_Python
 An introduction on how to use the Machine Learning package Scikit-learn to perform feature selection on input data.
 This jupyter notebook (hosted on Google Colab) shows Feature Selection example using statistical measures, based on 3 scenarios:
 - Numerical Input, Numerical Output using ***f_regression()_***
